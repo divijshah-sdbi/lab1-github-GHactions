@@ -1,4 +1,4 @@
-name: CI Demo
+name: CI_naksh Demo
 
 on:
   push:
